@@ -1,0 +1,6 @@
+requirement_id,requirement_text,requirement_type,source_user_need_id,safety_class,parent_system_requirement_id,design_output_ref,risk_id,risk_control_id,verification_method,test_case_id,test_result,test_run_date,baseline,approved_by,approval_date,change_request_id,status
+UN-001,"The device shall alert the user when the reservoir is below 10 percent capacity.",User need,,,,,,,Usability validation,,,,BL-1.0,,,,Approved
+SYS-001,"The system shall generate an audible alert within 2 seconds of reservoir volume falling below 10 percent.",System requirement,UN-001,Class B,,DS-004,RSK-012,RC-012a,Test,TC-101,,,BL-1.0,,,,Approved
+SWR-001,"The alarm module shall poll the reservoir sensor at 1 Hz.",Software requirement,UN-001,Class B,SYS-001,SWD-002,RSK-012,RC-012a,Test,TC-102,,,BL-1.0,,,,Approved
+SWR-002,"The alarm module shall raise ALM_LOW_RESERVOIR when three consecutive readings are below threshold.",Software requirement,UN-001,Class B,SYS-001,SWD-002,RSK-012,RC-012b,Test,TC-103,,,BL-1.0,,,,Approved
+RSK-012,"Delayed low reservoir alert leads to interrupted therapy.",Risk,,,,,,,Analysis,,,,BL-1.0,,,,Approved

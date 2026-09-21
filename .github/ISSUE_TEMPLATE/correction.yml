@@ -1,0 +1,31 @@
+name: Correction
+description: Something in the list is wrong or out of date
+title: "[Correction] <what is wrong>"
+labels: ["correction"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Where
+      description: File and section, for example README.md, entry 4, or data/tools.json
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: What it currently says
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: What it should say
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Published source
+      description: A link to the vendor's own material. Vendors correcting their own entry get the benefit of the doubt.
+    validations:
+      required: true

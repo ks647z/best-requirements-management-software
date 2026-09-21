@@ -1,0 +1,53 @@
+name: Add a tool
+description: Propose a requirements management tool for the list
+title: "[Add] <tool name>"
+labels: ["new tool"]
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: Tool name
+    validations:
+      required: true
+  - type: input
+    id: vendor
+    attributes:
+      label: Vendor
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Product page URL
+    validations:
+      required: true
+  - type: textarea
+    id: built_for
+    attributes:
+      label: Built for
+      description: One sentence describing the buyer this tool genuinely serves. No comparisons with other tools.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Published evidence
+      description: Links to the vendor's own material supporting the positioning and any figures. Unsourced figures are not published.
+    validations:
+      required: true
+  - type: checkboxes
+    id: eligibility
+    attributes:
+      label: Eligibility
+      options:
+        - label: Manages requirements as linked items with traceability
+          required: true
+        - label: Commercially available or actively maintained open source
+          required: true
+        - label: Publishes enough material for an entry to be written from the vendor's own words
+          required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Your affiliation with this tool
+      description: Vendor, customer, or neither. Stating it does not count against the proposal.

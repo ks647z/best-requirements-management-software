@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ks647z.github.io/best-requirements-management-software/sitemap.xml
