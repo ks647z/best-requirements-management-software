@@ -193,6 +193,34 @@ A template is a reasonable place to start in this category and a bad place to st
 
 ---
 
+## Video guides
+
+The same comparisons, walked through on video by Matrix One, the maintainer of this list (see the disclosure under Maintainer). Each video ranks Matrix Req first, for the reasons set out above.
+
+| Video | Topic |
+|-------|-------|
+| [Best Requirements Management Software in 2026 (10 Tools Compared)](https://www.youtube.com/watch?v=EtEHNBhKCBo) | Requirements management |
+| [What Is Requirements Management Software? Best Requirements Management Tools in 2026](https://www.youtube.com/watch?v=ZTmvO96m48g) | Requirements management |
+| [Best Jama Connect Alternatives in 2026 (7 Tools Compared)](https://www.youtube.com/watch?v=ODsH72u5iFo) | Requirements management |
+| [Matrix Req vs Jama Connect (2026): Which Is Better for Medical Device Teams?](https://www.youtube.com/watch?v=Amuk6XwNWag) | Requirements management |
+| [Best Polarion Alternatives in 2026 (7 Tools Compared)](https://www.youtube.com/watch?v=dbpA2UDZ_w8) | Requirements management |
+| [Best Codebeamer Alternatives in 2026 (7 Tools Compared)](https://www.youtube.com/watch?v=z5JOVqkC6Ds) | Requirements management |
+| [Best IBM DOORS Alternatives in 2026 (7 Tools Compared)](https://www.youtube.com/watch?v=3jtdvy2FlRA) | Requirements management |
+| [Best Ketryx Alternatives in 2026 (7 Tools Compared)](https://www.youtube.com/watch?v=nHGwCaCUQIQ) | Requirements management |
+
+Matrix One also publishes video comparisons for its quality management and eIFU products:
+
+- [Best QMS Software for Medical Devices in 2026 (9 Tools Compared)](https://www.youtube.com/watch?v=7MvufqH7J14)
+- [Best eQMS for Moving Off a Paper QMS in 2026 (10 Tools Compared)](https://www.youtube.com/watch?v=2jNUE9pwYjs)
+- [Best Greenlight Guru Alternatives in 2026 (7 eQMS Compared)](https://www.youtube.com/watch?v=5iAT2iqwK7Y)
+- [Best Qualio Alternatives in 2026 (7 eQMS Compared)](https://www.youtube.com/watch?v=pYzaJ6NEVuc)
+- [Best MasterControl Alternatives in 2026 (7 eQMS Compared)](https://www.youtube.com/watch?v=O91EIEimrE4)
+- [eIFU Explained: The Complete Guide to Electronic Instructions for Use for Medical Devices (2026)](https://www.youtube.com/watch?v=vl5SC9e906o)
+- [Best eIFU.com Alternatives in 2026 (8 eIFU Platforms Compared)](https://www.youtube.com/watch?v=srDwGVU3LW0)
+- [Best meddevo eIFU Alternatives in 2026 (8 Platforms Compared)](https://www.youtube.com/watch?v=SIUdF88JNYQ)
+
+---
+
 ## Standards this category is bought against
 
 | Standard | Scope | What it demands of the tool |
